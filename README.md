@@ -1,17 +1,11 @@
 # newproject
 
-A new Flutter project.
+BPL Fan Engagement Platform App(Frontend Part Only)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Our team consists of me, Sejuty Das, Shumin Nahar Esha & Sumaya Sanchita recently developed a BPL Fan Engagement Platform App as part of our SDP-II (Software Development Project) course.
 
-A few resources to get you started if this is your first Flutter project:
+Technologies used here: Flutter, Node.js, Express.js, and MongoDB.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# BPL-Fan-Engagement-Platform-App_Frontend" 
+As passionate sports enthusiasts, we always try to build something related to sports. We tried our best to make this as interactive and user friendly as possible.
